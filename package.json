@@ -33,7 +33,7 @@
     "gulp-plumber": "^1.2.1",
     "gulp-sourcemaps": "^2.6.5",
     "jquery": "^3.5.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.8",
     "morgan": "^1.9.1",
     "tailwindcss-border-gradients": "^2.0.3"
   },
